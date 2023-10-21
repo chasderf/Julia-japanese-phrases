@@ -1,0 +1,207 @@
+julia> College = "Daigaku"
+"Daigaku"
+
+julia> University = "Daigaku"
+"Daigaku"
+
+julia> High_School = "KooKoo"
+"KooKoo"
+
+julia> Student = "Gakusee"
+"Gakusee"
+
+julia> College_Student = "Daigakusee"
+"Daigakusee"
+
+julia> International_Student = "Ryuugakusee"
+"Ryuugakusee"
+
+julia> Teacher = "Sensei"
+"Sensei"
+
+julia> Professor = "Sensei"
+"Sensei"
+
+julia> Year_Student = "Nensee"
+"Nensee"
+
+julia> First_Year_Student = "Ichinensee"
+"Ichinensee"
+
+julia> Major = "Senkoo"
+"Senkoo"
+
+julia> I = "Watashi"
+"Watashi"
+
+julia> Friend = "Tomodachi"
+"Tomodachi"
+
+julia> Mr = "San"
+"San"
+julia> Ms = "San"
+"San"
+
+julia> People = "Jin"
+"Jin"
+
+julia> Japanese_People = "Nihonjin"
+"Nihonjin"
+
+julia> Now = "Ima"
+"Ima"
+
+julia> AM = "Gozen"
+"Gozen"
+
+julia> PM = "Gogo"
+"Gogo"
+
+julia> OClock = "Ji"
+"Ji"
+
+julia> One_Oclock = "Ichiji"
+"Ichiji"
+
+julia> Half = "Han"
+"Han"
+
+julia> Half_Past_Two = "Niji han"
+"Niji han"
+
+julia> Japan = "Nihon"
+"Nihon"
+julia> USA = "Amerika"
+"Amerika"
+
+julia> Language = "Go"
+"Go"
+
+julia> Years_Old = "Sai"
+"Sai"
+
+julia> Telephone = "Denwa"
+"Denwa"
+
+julia> Number = "Ban"
+"Ban"
+
+julia> Number = "Bangoo"
+"Bangoo"
+
+julia> Name = "Namae"
+"Namae"
+
+julia> What = "Nan or Nani"
+"Nan or Nani"
+
+julia> Um = "Anoo"
+"Anoo"
+
+julia> Yes = "Hai"
+"Hai"
+
+julia> Thats_Right = "Soo Desu"
+"Soo Desu"
+
+julia> I_See = "Soo Desu Ka"
+"Soo Desu Ka"
+
+julia> Is_That_So = "Soo Desu Ka"
+"Soo Desu Ka"
+
+julia> Britain = "Igirisu"
+"Igirisu"
+
+julia> Australia = "Oosutoraria"
+"Oosutoraria"
+
+julia> Korea = "Kankoku"
+"Kankoku"
+
+julia> Canada = "Kanada"
+"Kanada"
+
+julia> China = "Chuugoku"
+"Chuugoku"
+
+julia> India = "Indo"
+"Indo"
+
+julia> Egypt = "Ejiputo"
+"Ejiputo"
+
+julia> Philippines = "Firipin"
+"Firipin"
+
+julia> Asian_Studies = "Aija Kenkyuu"
+"Aija Kenkyuu"
+
+julia> Economics = "Keezai"
+"Keezai"
+
+julia> Engineering = "Koogaku"
+"Koogaku"
+
+julia> International_Relations = "Kokusaikankee"
+"Kokusaikankee"
+
+julia> Computer = "Konpyutaa"
+"Konpyutaa"
+
+julia> Politics = "Seeji"
+"Seeji"
+
+julia> Business = "Bijnesu"
+"Bijnesu"
+
+julia> Biology = "Seebutsugaku"
+"Seebutsugaku"
+
+julia> Literatur = "Bungaku"
+"Bungaku"
+
+julia> Literature = "Bungaku"
+"Bungaku"
+
+julia> History = "Rekishi"
+"Rekishi"
+
+julia> Doctor = "Isha"
+"Isha"
+
+julia> Office_Worker = "Kaishain"
+"Kaishain"
+
+julia> Nurse = "Kangoshi"
+"Kangoshi"
+
+julia> High_School_Student = "Kookoosee"
+"Kookoosee"
+
+julia> Housewife = "Shufu"
+"Shufu"
+
+julia> Graduate_Student = "Daigakuinsee"
+"Daigakuinsee"
+
+julia> Lawyer = "Bengoshi"
+"Bengoshi"
+
+julia> Mother = "Okaasan"
+"Okaasan"
+
+julia> Father = "Otoosan"
+"Otoosan"
+
+julia> Older_Sister = "Oneesan"
+"Oneesan"
+
+julia> Older_Brother = "Oniisan"
+"Oniisan"
+
+julia> Younger_Sister = "Imooto"
+"Imooto"
+
+julia> Younger_Brother = "Otooto"
+"Otooto"

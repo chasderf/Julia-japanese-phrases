@@ -1,0 +1,56 @@
+julia> This_One = "Kore"
+"Kore"
+
+julia> That_One = "Sore"
+"Sore"
+
+julia> That_One_Over_There = "Are"
+"Are"
+
+julia> Which_One = "Dore"
+"Dore"
+
+julia> This = "Kono"
+"Kono"
+
+julia> That = "Sono"
+"Sono"
+
+julia> That_Over_There = "Ano"
+"Ano"
+
+julia> Which = "Dono"
+"Dono"
+
+julia> Here = "Koko"
+"Koko"
+
+julia> There = "Soko"
+"Soko"
+
+julia> Over_There = "Asoko"
+"Asoko"
+
+julia> Where = "Doko"
+"Doko"
+
+julia> Who = "Dore"
+"Dore"
+
+julia> Delicious = "Oishii"
+"Oishii"
+
+julia> Fish = "Sakana"
+"Sakana"
+
+julia> Pork_Cutlet = "Tonkatsu"
+"Tonkatsu"
+
+julia> Meat = "Niku"
+"Niku"
+
+julia> Menu = "Menyuu"
+"Menyuu"
+
+julia> Vegetable = "Yasai"
+"Yasai"
