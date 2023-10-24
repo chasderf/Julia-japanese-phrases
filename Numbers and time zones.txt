@@ -1,0 +1,197 @@
+julia> Zero = "Zero"
+"Zero"
+
+julia> Zero = "Ree"
+"Ree"
+
+julia> One = "Ichi"
+"Ichi"
+
+julia> Two = "Ni"
+"Ni"
+
+julia> Three = "San"
+"San"
+
+julia> Four = "Yon"
+"Yon"
+
+julia> Four = "Shi"
+"Shi"
+
+julia> Four = "Yo"
+"Yo"
+
+julia> Four
+"Yo"
+
+julia> Five = "Go"
+"Go"
+
+julia> Six = "Roku"
+"Roku"
+
+julia> Sevan = "Nana"
+"Nana"
+
+julia> sevan = "Shichi"
+"Shichi"
+
+julia> Eight = "Hachi"
+"Hachi"
+
+julia> Nine = "Kyuu"
+"Kyuu"
+
+julia> Nine = "Ku"
+"Ku"
+
+julia> Ten = "Juu"
+"Juu"
+
+julia> Elevan = "Juuichi"
+"Juuichi"
+
+julia> Twelve = "Juuni"
+"Juuni"
+
+julia> Thirteen = "Juusan"
+"Juusan"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+julia> Fourteen = "Juuyon"
+"Juuyon"
+
+julia> fourteen = "Juushi"
+"Juushi"
+
+julia> Fifteen = "Juugo"
+"Juugo"
+
+julia> Sixteen = "Juuroku"
+"Juuroku"
+
+julia> Seventeen = "Juunana"
+"Juunana"
+
+julia> seventeen = "Juushichi"
+"Juushichi"
+
+julia> Eighteen = "Juuhachi"
+"Juuhachi"
+
+julia> Nineteen = "Juukyuu"
+"Juukyuu"
+
+julia> nineteen = "juuku"
+"juuku"
+
+julia> Twenty = "Nijuu"
+"Nijuu"
+
+julia> Thirty = "Sanjuu"
+"Sanjuu"
+
+julia> Fourty = "Yonjuu"
+"Yonjuu"
+
+julia> Fifty = "Gojuu"
+"Gojuu"
+
+julia> Sixty = "Rokujuu"
+"Rokujuu"
+
+julia> Seventy = "Nanajuu"
+"Nanajuu"
+
+julia> Eighty = "Hachijuu"
+"Hachijuu"
+
+julia> Ninety = "Kyuujuu"
+"Kyuujuu"
+
+julia> One_Hundred = "Hyaku"
+"Hyaku"
+
+julia> OneHundred = "Hyaku"
+"Hyaku"
+
+julia> Ocklock = "Ji"
+"Ji"
+
+julia> One_Ocklock = "Ichijji"
+"Ichijji"
+
+julia> Two_Ocklock = "Niji"
+"Niji"
+
+julia> Three_Ocklock = "Sanji"
+"Sanji"
+
+julia> Four_Ocklock = "Yoji"
+"Yoji"
+
+julia> Five_Ocklock = "Goji"
+"Goji"
+
+julia> Six_Ocklock = "Rokuji"
+"Rokuji"
+
+julia> Seven_Ocklock = "Shichiji"
+"Shichiji"
+
+julia> Eight_Ocklock = "Haichiji"
+"Haichiji"
+
+julia> Nine_Ocklock = "Kuji"
+"Kuji"
+
+julia> Ten_Ocklock = "Juuji"
+"Juuji"
+
+julia> Eleven_Ocklock = "Juuichi ji"
+"Juuichi ji"
+
+julia> Twelve_Ocklock = "Juu ni ji"
+"Juu ni ji"
+
+julia> AM = "Gozen"
+"Gozen"
+
+julia> PM = "Go go"
+"Go go"
+
+julia> Half = "Han"
+"Han"
+
+julia> One_Thirty = "Ichiji han"
+"Ichiji han"
+ 
+julia> What_Time_Is_It_Now = "Wa ima nanji deuka"
+"Wa ima nanji deuka"

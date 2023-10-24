@@ -1,0 +1,30 @@
+
+julia> Younger_Sister = "Imooto"
+"Imooto"
+
+julia> Elder_Brother = "Oniisan"
+"Oniisan"
+
+julia> Mother = "Okaasan"
+"Okaasan"
+
+julia> Father = "Otoosan"
+"Otoosan"
+
+julia> Mother = "Okaasan"
+"Okaasan"
+
+julia> Father = "Otoosan"
+"Otoosan"
+
+julia> Older_Sister = "Oneesan"
+"Oneesan"
+
+julia> Older_Brother = "Oniisan"
+"Oniisan"
+
+julia> Younger_Sister = "Imooto"
+"Imooto"
+
+julia> Younger_Brother = "Otooto"
+"Otooto"
